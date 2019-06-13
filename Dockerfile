@@ -1,4 +1,4 @@
-FROM redash/redash:5.0.0-beta.b4476
+FROM redash/redash:7.0.0.b18042
 
 RUN pip install newrelic
 
